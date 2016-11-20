@@ -5,6 +5,7 @@ Articles/Books/Courses to learn Data Science
 
 1. [How to handle unbalanced classes](http://www.svds.com/learning-imbalanced-classes/)
 2. [Bayesian Optimization](https://sigopt.com/research)
+3. [Categorical Encoding](https://github.com/scikit-learn-contrib/categorical-encoding)
 
 ## Statistics
 
